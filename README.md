@@ -1,48 +1,38 @@
-🌐 Responsive Website with CSS Media Queries
-📌 Objective
+# 🌐 Responsive Website with CSS Media Queries  
 
-Convert an existing desktop-only webpage into a mobile-friendly layout using CSS media queries.
+## 📌 Objective  
+Convert an existing **desktop-only webpage** into a **mobile-friendly layout** using **CSS media queries**.  
 
-🛠️ Tools & Technologies
+---
 
-HTML5
-CSS3
-VS Code
+## 🛠️ Tools & Technologies  
+- **HTML5**  
+- **CSS3**  
+- **VS Code**  
+- **Chrome DevTools**  
 
-Chrome DevTools
+---
 
-📖 Features
+## 📖 Features  
+✔️ Mobile-first responsive design  
+✔️ Navigation menu adjusts to smaller screens  
+✔️ Columns stack vertically on mobile  
+✔️ Scalable images (no overflow issues)  
+✔️ Works on devices with width **≤ 768px**  
 
-✔️ Mobile-first responsive design
-✔️ Navigation menu adjusts to smaller screens
-✔️ Columns stack vertically on mobile
-✔️ Scalable images (no overflow issues)
-✔️ Works on devices with width ≤ 768px
+---
 
-📂 Project Structure
-📁 responsive-website
- ┣ 📄 index.html
- ┣ 📄 style.css
- ┗ 📄 README.md
+## 📂 Project Structure  
+index.html
+style.css
 
-💻 How to Run
+---
 
-Clone the repository:
+## 💻 How to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/Mobile-Friendly-Website.git
+2. Open the project folder in VS Code.
+3. Open index.html in your browser.
+4. Use Chrome DevTools → Toggle Device Toolbar (Ctrl+Shift+M) to test responsiveness.
 
-git clone https://github.com/your-username/Mobile-Friendly-Website.git
-
-
-Open the project folder in VS Code.
-
-Open index.html in your browser.
-
-Use Chrome DevTools → Toggle Device Toolbar (Ctrl+Shift+M) to test responsiveness.
-
-📱 Screenshots
-🖥️ Desktop View
-
-Columns side-by-side, navigation horizontal.
-
-📱 Mobile View (<768px)
-
-Columns stacked vertically, navigation stacked, images resized.
